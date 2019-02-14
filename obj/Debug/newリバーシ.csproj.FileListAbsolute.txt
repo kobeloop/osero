@@ -1,0 +1,18 @@
+F:\情報処理序論B\newリバーシ\bin\Debug\0115 オセロ.exe.config
+F:\情報処理序論B\newリバーシ\obj\Debug\0115 オセロ.exe
+F:\情報処理序論B\newリバーシ\obj\Debug\0115 オセロ.pdb
+F:\情報処理序論B\newリバーシ\bin\Debug\0115 オセロ.exe
+F:\情報処理序論B\newリバーシ\bin\Debug\0115 オセロ.pdb
+F:\情報処理序論B\newリバーシ\obj\Debug\newリバーシ.csprojResolveAssemblyReference.cache
+F:\情報処理序論B\newリバーシ\obj\Debug\_0115_オセロ.Form1.resources
+F:\情報処理序論B\newリバーシ\obj\Debug\_0115_オセロ.Properties.Resources.resources
+F:\情報処理序論B\newリバーシ\obj\Debug\newリバーシ.csproj.GenerateResource.Cache
+E:\情報処理序論B\newリバーシ\bin\Debug\0115 オセロ.exe.config
+E:\情報処理序論B\newリバーシ\obj\Debug\0115 オセロ.exe
+E:\情報処理序論B\newリバーシ\obj\Debug\0115 オセロ.pdb
+E:\情報処理序論B\newリバーシ\bin\Debug\0115 オセロ.exe
+E:\情報処理序論B\newリバーシ\bin\Debug\0115 オセロ.pdb
+E:\情報処理序論B\newリバーシ\obj\Debug\newリバーシ.csprojResolveAssemblyReference.cache
+E:\情報処理序論B\newリバーシ\obj\Debug\_0115_オセロ.Form1.resources
+E:\情報処理序論B\newリバーシ\obj\Debug\_0115_オセロ.Properties.Resources.resources
+E:\情報処理序論B\newリバーシ\obj\Debug\newリバーシ.csproj.GenerateResource.Cache

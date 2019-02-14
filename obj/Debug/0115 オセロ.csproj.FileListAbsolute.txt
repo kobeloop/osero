@@ -1,0 +1,36 @@
+z:\0115 オセロ\bin\Debug\0115 オセロ.exe.config
+z:\0115 オセロ\obj\Debug\0115 オセロ.csprojResolveAssemblyReference.cache
+z:\0115 オセロ\obj\Debug\_0115_オセロ.Form1.resources
+z:\0115 オセロ\obj\Debug\_0115_オセロ.Properties.Resources.resources
+z:\0115 オセロ\obj\Debug\0115 オセロ.csproj.GenerateResource.Cache
+z:\0115 オセロ\bin\Debug\0115 オセロ.exe
+z:\0115 オセロ\bin\Debug\0115 オセロ.pdb
+z:\0115 オセロ\obj\Debug\0115 オセロ.exe
+z:\0115 オセロ\obj\Debug\0115 オセロ.pdb
+F:\情報処理B\0115 オセロ\bin\Debug\0115 オセロ.exe.config
+F:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.exe
+F:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.pdb
+F:\情報処理B\0115 オセロ\bin\Debug\0115 オセロ.exe
+F:\情報処理B\0115 オセロ\bin\Debug\0115 オセロ.pdb
+F:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.csprojResolveAssemblyReference.cache
+F:\情報処理B\0115 オセロ\obj\Debug\_0115_オセロ.Form1.resources
+F:\情報処理B\0115 オセロ\obj\Debug\_0115_オセロ.Properties.Resources.resources
+F:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.csproj.GenerateResource.Cache
+E:\情報処理B\0115 オセロ\bin\Debug\0115 オセロ.exe.config
+E:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.exe
+E:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.pdb
+E:\情報処理B\0115 オセロ\bin\Debug\0115 オセロ.exe
+E:\情報処理B\0115 オセロ\bin\Debug\0115 オセロ.pdb
+E:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.csprojResolveAssemblyReference.cache
+E:\情報処理B\0115 オセロ\obj\Debug\_0115_オセロ.Form1.resources
+E:\情報処理B\0115 オセロ\obj\Debug\_0115_オセロ.Properties.Resources.resources
+E:\情報処理B\0115 オセロ\obj\Debug\0115 オセロ.csproj.GenerateResource.Cache
+F:\情報処理序論B\0115 オセロ\bin\Debug\0115 オセロ.exe.config
+F:\情報処理序論B\0115 オセロ\obj\Debug\0115 オセロ.exe
+F:\情報処理序論B\0115 オセロ\obj\Debug\0115 オセロ.pdb
+F:\情報処理序論B\0115 オセロ\bin\Debug\0115 オセロ.exe
+F:\情報処理序論B\0115 オセロ\bin\Debug\0115 オセロ.pdb
+F:\情報処理序論B\0115 オセロ\obj\Debug\0115 オセロ.csprojResolveAssemblyReference.cache
+F:\情報処理序論B\0115 オセロ\obj\Debug\_0115_オセロ.Form1.resources
+F:\情報処理序論B\0115 オセロ\obj\Debug\_0115_オセロ.Properties.Resources.resources
+F:\情報処理序論B\0115 オセロ\obj\Debug\0115 オセロ.csproj.GenerateResource.Cache
